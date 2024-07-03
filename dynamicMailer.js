@@ -541,7 +541,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 
 
 // onboard request
-const OnboardReq=(name)=>{
+const OnboardReq=(name,companyName)=>{
     return `<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
@@ -797,7 +797,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
         
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">Hello ${name}</span></p><br>
-    <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">Thank you for registering with The Docs App! We're excited to have you on board. To complete your registration, please verify your email address by clicking the link below:</span></p><br>
+    <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">Thank you for registering with ${companyName} We're excited to have you on board. To complete your registration, please verify your email address by clicking the link below:</span></p><br>
 <!-- <p style="font-size: 18px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">To get started, please activate your account by click below:</span></p> -->
 <!-- <p style="font-size: 18px; line-height: 140%;"></p> -->
 <a href="https://www.thedocsapp.com/" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #2658cc; border-radius: 1px;-webkit-border-radius: 1px; -moz-border-radius: 1px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px; border-radius: 10px; margin: 10px 0px;">
@@ -1868,16 +1868,19 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
     <tr>
       <td style="overflow-wrap:break-word;word-break:break-word;padding:40px 40px 30px;font-family:'Lato',sans-serif;" align="left">
         
-  <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;"><span>Hello ${name}</span></span></p><br>
+<div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
+    <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">Hello ${name},</span></p><br>
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">Welcome to The Docs App!<br><br>
-      As requested, here is your &nbsp;<span style="padding: 5px 7px;border: 1px solid black; border-radius: 4px;"><b> ${password};</b></span>&nbsp; for accessing your account. Please use this password to log in to your account. For security reasons, we recommend changing your password after logging in. <br><br>
+      We are pleased to inform you that your account has been successfully created. To access your account, please use the temporary password provided below: <br> <br>
+      <div align="center">
+        <p style="font-size: 18px;">Temporary Password: <span style="padding: 5px 10px;border: 2px solid black;font-size: 20px;border-radius: 8px;"><b id="ch">${password}</b></span></p>
+      </div>
+      <br> <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">for accessing your account. Please use this password to log in to your account. For security reasons, we recommend changing your password after logging in. <br><br>
       Thank You.
-      </span></p>
-<!-- <p style="font-size: 18px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px; color: #666666;">To get started, please activate your account by click below:</span></p> -->
-<!-- <p style="font-size: 18px; line-height: 140%;"></p> -->
+      </span></p></p>
 </span></p>
   </div>
+
 
       </td>
     </tr>
