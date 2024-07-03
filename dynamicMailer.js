@@ -344,7 +344,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -884,7 +884,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -1418,7 +1418,7 @@ const paymetDone=(name,plan,rs,paymethod)=>{
     <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
       <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
   <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-  <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+  <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
     </div>
   
         </td>
@@ -1954,7 +1954,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -2498,7 +2498,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -3030,7 +3030,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -3572,7 +3572,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -3766,7 +3766,6 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 </html>
 `
 }
-
 
 // Thanks To Submit Document
 const thanksforsubmit=(name)=>{
@@ -4103,7 +4102,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -4648,7 +4647,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -5193,7 +5192,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -5387,7 +5386,6 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 </html>
 `
 }
-
 
 // Account Activation
 const AccountAct=(name)=>{
@@ -5736,7 +5734,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -5930,7 +5928,6 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 </html>
 `
 }
-
 
 // SMTP Verify
 const SmtpVerify=(name)=>{
@@ -6278,7 +6275,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -6472,7 +6469,6 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 </html>
 `
 }
-
 
 // company Send doc
 const SendDocuments=(name,company)=>{
@@ -6815,7 +6811,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
@@ -7009,7 +7005,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
 </html>
 `
 }
-
+// video Kyc
 const VideoKYC=(name,companyName)=>{
   return`<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -7340,7 +7336,7 @@ table, td { color: #000000; } #u_body a { color: #161a39; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 16px; line-height: 22.4px; color: #ecf0f1;">Contact:</span></p>
 <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">1912 &nbsp;Swargate pune 213-212</span></p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | Info@thedocsapp.com</span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ecf0f1;">+111 222 333 | <a style="font-size: 14px; line-height: 19.6px; color: #ecf0f1; text-decoration: none;" href="mailto:info@thedocsapp.com">Info@thedocsapp.com</a></span></p>
   </div>
 
       </td>
